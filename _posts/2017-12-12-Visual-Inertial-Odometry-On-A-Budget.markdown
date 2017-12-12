@@ -135,17 +135,17 @@ We can then create a custom launch-file like this one:
 ```
 so that ROVIO will play the rosbag containing the topics /camera/image_raw and /imu/data (in my case) and estimate the camera trajectory!
 
-#### VIDEOS
+#### **VIDEOS**
 
 Here are two videos showing the behaviour of ROVIO with this el-cheapo visual inertial setup. The first video shows a desk scenario, very _cornery_ and detailed. The second video shows a challenging little walking sequence where sudden illumination changes and reflections cause the algorithm to lose track of the environment therefore relying to the IMU (noisy) attitude and motion estimation.
 
 I hope this post was interesting and helpful to clarify the steps to build a ROS-interfaced cheap setup. Now the videos, enjoy!
 
-<a href="https://www.youtube.com/watch?v=jGd7SdSqeSg" target="_blank"><img src="https://www.youtube.com/watch?v=jGd7SdSqeSg/default.jpg" 
-alt="desk scene" width="1280" height="720" border="10" /></a>
+<iframe width="560" height="420" src="http://www.youtube.com/embed/jGd7SdSqeSg?color=white&theme=light"></iframe>
 
-<a href="https://www.youtube.com/watch?v=8jt-9f7Tbi0" target="_blank"><img src="https://www.youtube.com/watch?v=8jt-9f7Tbi0/default.jpg" 
-alt="corridor scene" width="1280" height="720" border="10" /></a>
+<iframe width="560" height="420" src="http://www.youtube.com/embed/8jt-9f7Tbi0?color=white&theme=light"></iframe>
+
+
 
 
 
