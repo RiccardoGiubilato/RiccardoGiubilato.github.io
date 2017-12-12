@@ -141,9 +141,9 @@ Here are two videos showing the behaviour of ROVIO with this el-cheapo visual in
 
 I hope this post was interesting and helpful to clarify the steps to build a ROS-interfaced cheap setup. Now the videos, enjoy!
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/jGd7SdSqeSg?color=white&theme=light"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGd7SdSqeSg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/8jt-9f7Tbi0?color=white&theme=light"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jt-9f7Tbi0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 
