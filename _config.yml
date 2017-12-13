@@ -16,12 +16,32 @@
 title: RiccardoGiubilato
 email: riccardo.giubilato@phd.unipd.it
 description: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "https://riccardogiubilato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RiccardoGiubilato
+
+# Google services
+google_analytics: UA-111128383-1
+google_verification:
+
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: true
+share_stumbleupon: false
+share_hackernews: true
 
 # Build settings
 markdown: kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
 theme: minima
 plugins:
   - jekyll-feed
