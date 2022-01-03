@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student in aerospace engineering, a robotics enthusiast and a guitar player. My main interests are Visual Odometry and SLAM, pizza and heavy metal
+I am a post-doctoral researcher at DLR (German Aerospace Center), Institute of Robotics and Mechatronics, a robotics enthusiast and a guitar player. 

@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: RiccardoGiubilato
-email: riccardo.giubilato@phd.unipd.it
-description: 
-baseurl: "" 
+email: riccardo.giubilato@dlr.de
+description:
+baseurl: ""
 url: "https://riccardogiubilato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RiccardoGiubilato
 
