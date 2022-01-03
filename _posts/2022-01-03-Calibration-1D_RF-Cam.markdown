@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Extrinsic calibration of a 1D range finder and a monocular camera"
-date:   2021-01-02 14:34:33 +0100
+date:   2022-01-03 14:34:33 +0100
 categories: calibration, 1D, range finder, camera
 ---
 
