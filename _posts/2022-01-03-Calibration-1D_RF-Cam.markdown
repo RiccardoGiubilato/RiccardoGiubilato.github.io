@@ -7,11 +7,11 @@ categories: calibration, 1D, range finder, camera
 
 # 1D RangeFinder - Camera calibration
 
-from the repo: https://github.com/RiccardoGiubilato/1d-lidar-cam-calib
+from the repo: <https://github.com/RiccardoGiubilato/1d-lidar-cam-calib>
 
 Extrinsic calibration for a 1D lidar range finder (altimeter) and a monocular camera.
 
-<img src="images/alti_cam_fade.png" height="150"/> <img src="images/alti_extr.png" height="150"/>
+<img src="/images/alti_cam_fade.png" height="150"/> <img src="/images/alti_extr.png" height="150"/>
 
 
 ## Usage
